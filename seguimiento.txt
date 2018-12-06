@@ -1,2 +1,3 @@
 https://fernando-gaitan.com.ar/php-orientado-a-objetos-parte-4-metodos-getters-y-setters/
 https://fernando-gaitan.com.ar/php-orientado-a-objetos-parte-5-constantes/
+https://fernando-gaitan.com.ar/php-orientado-a-objetos-parte-6-herencia/
